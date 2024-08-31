@@ -1,0 +1,25 @@
+Atividade versionamento 
+
+Aluna :Josiane Araújo Lourenço 
+
+Comandos usados:
+
+mkdir 
+git init
+cd 
+git config user.email "seu@email.com"
+git config user.name "seu nome"
+git clone "link do github"
+git checkout -b "nome"
+touch "arquivo"
+git add "arquivo"
+vi "arquivo"
+git status 
+git add "arquivo"
+git commit -m "mensagem"
+git remote add origin <link>
+git push origin main 
+rm 
+ls
+git log
+
