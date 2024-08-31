@@ -1,0 +1,6 @@
+#Ignore os arquivos de extensão db
+*.db
+#Ignore os arquivos de estensão sql 
+*.sql
+#Ignore os arquivos de estensão rar 
+*.rar
