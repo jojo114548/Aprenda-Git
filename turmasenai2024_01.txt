@@ -14,5 +14,10 @@ Comandos :
 •	git clone "link do github"
 •	git remote add origin <link>
 •	git push origin main 
+•	rm
+•	git remote -v 
+•	git pull
+•	git log 
+•	ls
 
 
