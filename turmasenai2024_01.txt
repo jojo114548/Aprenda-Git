@@ -1,0 +1,18 @@
+Comandos :
+
+•	Mkdir 
+•	Cd 
+•	Git init 
+•	Touch 
+•	Git add 
+•	Vi nome-arquivo
+•	Git status
+•	Git commit -m “mensagem”
+•	Git branch -m “mensagem”
+•	git config user.name "seu nome"
+•	git config user.e-mail “seu@email.com”
+•	git clone "link do github"
+•	git remote add origin <link>
+•	git push origin main 
+
+
